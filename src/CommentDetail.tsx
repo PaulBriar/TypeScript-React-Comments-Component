@@ -22,5 +22,4 @@ export default class CommentDetail extends React.Component<any, any> {
             </div>
         );
     }
-
 };
